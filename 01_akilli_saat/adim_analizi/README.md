@@ -8,6 +8,10 @@ Projenin temel amacı, gerçek bir veri seti üzerinde SQL ve Python kullanarak 
 
 Veriler Mi Fitness uygulamasından dışa aktardığım kişisel sağlık ve aktivite kayıtlarından elde edilmiştir.
 
+Ham veri setim nabız, uyku, stres, adım, kalori ve benzeri farklı sağlık ve aktivite kayıtlarını içeren toplam **628.770 gözlemden** oluşmaktadır. Bu proje kapsamında yalnızca "steps" türündeki kayıtlar kullanılmıştır.
+
+Adım verisi  **28 Nisan 2026 – 20 Ağustos 2026** tarihleri arasında 115 farklı güne yayılmış 16.732 zaman damgalı ham kayıttan oluşmaktadır. Her kayıt gün içerisindeki belirli bir anda kaydedilen adım miktarını temsil etmektedir. Analiz sırasında bu kayıtlar günlük düzeyde birleştirilerek toplam günlük adım sayıları oluşturulacaktır.
+
 Gizlilik nedeniyle ham veri dosyası bu depoda paylaşılmamaktadır.
 
 ## Araştırma Soruları
