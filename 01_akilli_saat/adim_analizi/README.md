@@ -31,4 +31,4 @@ Gizlilik nedeniyle ham veri dosyası bu depoda paylaşılmamaktadır.
 
 ## Not
 
-Bu çalışma aynı zamanda öğrenme sürecimin bir parçasıdır. Proje boyunca sorgu geliştirme, hata ayıklama ve teknik kavramları öğrenme aşamalarında yapay zekâdan yararlanıyorum.
+Bu çalışma aynı zamanda öğrenme sürecimin bir parçasıdır. Proje boyunca sorgu geliştirme, hata ayıklama ve teknik kavramları öğrenme aşamalarında yapay zekâ araçlarından yararlanıyorum.
